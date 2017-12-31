@@ -2,6 +2,7 @@
 <head><title>First JSP</title></head>
 <body>
   <%
+  
     double num = Math.random();
     if (num > 0.51) {
   %>
@@ -9,7 +10,7 @@
   <%
     } else {
   %>
-      <h2>Well, life goes on ... </h2><p>(<%= num %>)</p>
+      <h2>Well, life goes on ... until you random number is greater than .51 click on Try Again for next change of LUCK</h2><p>(<%= num %>)</p>
   <%
     }
   %>
