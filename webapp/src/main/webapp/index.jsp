@@ -14,7 +14,10 @@
 	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
 	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
 	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
-	  
+	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
+	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
+	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
+	  <h2>Well, life goes on ... until your GENERATED.....random number is greater than .51 click on Try Again for next chance of LUCK!!!!!</h2><p>(<%= num %>)</p>
   <%
     }
   %>
